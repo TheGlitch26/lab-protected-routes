@@ -1,4 +1,5 @@
 import LoginForm from "@/components/LoginForm";
+import { useAuth } from "@/context/AuthContext";
 
 export const metadata = {
   title: "Sign in — PostHub",
